@@ -4,8 +4,11 @@
 <b>konlpy, nltk, matplotlib, wordcloud 설치가 필요</b>
 
 > http://konlpy.org/en/latest/install/  
+
 > https://www.nltk.org/install.html  
+
 > https://matplotlib.org/faq/installing_faq.html  
+
 > https://anaconda.org/conda-forge/wordcloud  
 
 ## example
@@ -17,3 +20,5 @@
 ![](output/ex5.png)  
 ![](output/ex6.png)
 
+## reference
+> https://amueller.github.io/word_cloud/auto_examples/index.html
