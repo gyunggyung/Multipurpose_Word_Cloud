@@ -11,6 +11,9 @@
 
 > https://anaconda.org/conda-forge/wordcloud  
 
+## How to use
+위에 설치 작업을 완료했다고 가정하겠습니다. 
+
 ## example
 <b>이 프로그램을 이용해 만든 자기소개서 Word Cloud 예시입니다.</b>
 ![](output/ex1.png)  
