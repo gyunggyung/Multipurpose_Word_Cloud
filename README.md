@@ -23,9 +23,8 @@
 글 속에서 지우고 싶은 keyword를 아래와 같이 제거 합니다.  
 `del(data["개"])`
 
-이제 make_cloud 함수를 이용해서 프로그램을 출력합니다.
-`def make_cloud(tmp_data, back_image_n,state="no", font_n = "UnDinaru.ttf",background_color_n='white', max_font_size_n = 40):`
-
+이제 make_cloud 함수를 이용해서 프로그램을 출력합니다.  
+`def make_cloud(tmp_data, back_image_n,state="no", font_n = "UnDinaru.ttf",background_color_n='white', max_font_size_n = 40):`  
 ```
 back_image_n = "image 폴더에 있는 사진 중 Word Cloud의 모습이 되길 바라는 사진"
 state = "Word Cloud의 표현되는 색"
@@ -37,7 +36,7 @@ font_n = "Word Cloud에 적용할 폰트 이름"
 background_color_n = "배경으로 바라는 색"
 max_font_size_n = "Word Cloud에 표시할 글씨의 최대 크기"
 ```
-하나의 예시 입니다. 
+하나의 예시 입니다.   
 `make_cloud(data,back_image_n="skeleton_king.jpg" ,state="grey", background_color_n='black', max_font_size_n = 50, font_n="malgun.ttf")`  
 ![](output/ex5.png) 
 
