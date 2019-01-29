@@ -1,12 +1,38 @@
 # Multipurpose_Word_Cloud
 
 ## 설치
-<b>konlpy, nltk, matplotlib, wordcloud 설치가 필요</b>
+기본적으로 Git이 설치되있다고 가정하겠습니다. 워드클라우드를 진행할 코드를 저장할 하위 폴터에서 아래 코드를 실행시킵니다.
 
-> http://konlpy.org/en/latest/install/  
+```
+git init
+git clone https://github.com/newhiwoong/National-Petition.git
+```
+
+## 👨‍💻 System requirements
+기본적으로 ANACONDA 환경에 jupyter notebook에서 진행합니다. 이를 위해 [ANACONDA 설치](https://www.anaconda.com/download/) 및 환경 설정이 필수적으로 필요합니다. 그리고 이 Code는 Windows에서는 동작하지 않을 수 있습니다. 아래 링크를 참고하거나 명령어를 통해 필요한 것들을 설치합니다.
+
+> https://www.java.com/ko/download/  
+> https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/  
 > https://www.nltk.org/install.html  
 > https://matplotlib.org/faq/installing_faq.html  
 > https://anaconda.org/conda-forge/wordcloud  
+
+### 👩‍💻 Dependency Build Instructions
+
+#### Ubuntu User
+```
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+sudo apt-get install fonts-nanum-coding
+```
+
+#### All User
+```
+pip install nltk
+pip install konlpy
+pip install wordcloud
+```
+
 
 ## How to use
 위에 설치 작업을 완료했다고 가정하겠습니다.  
