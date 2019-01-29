@@ -88,8 +88,8 @@ make_cloud(data,back_image_n="skeleton_king.jpg" ,state="grey", background_color
 ![](output/ex1.png)  
 ![](output/ex4.png)  
 ![](https://newhiwoong.github.io/images/KakaoTalk_WC1.png)  
-![](output/ex6.png)  
 ![](https://raw.githubusercontent.com/newhiwoong/newhiwoong.github.io/master/images/main_logo.png)
+![](output/ex6.png)  
 
 ## Next
 ![](image/next.JPG)  
