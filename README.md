@@ -4,6 +4,9 @@
 
 [카카오톡을 Word Cloud로 분석하기](https://newhiwoong.github.io/nlp/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%8C%80%ED%99%94-%EB%82%B4%EC%9A%A9%EC%9D%84-Word-Cloud%EB%A1%9C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0)
 
+### 참고한 글
+> https://amueller.github.io/word_cloud/auto_examples/index.html
+
 ## 설치
 기본적으로 Git이 설치되있다고 가정하겠습니다. 워드클라우드를 진행할 코드를 저장할 하위 폴터에서 아래 코드를 실행시킵니다.
 
@@ -39,9 +42,10 @@ pip install wordcloud
 
 
 ## How to use
-위에 설치 작업을 완료했다고 가정하겠습니다.  
 
 ![](image/make.JPG)  
+
+위에 설치 작업을 완료했다고 가정하겠습니다.  
 
 먼저 Word Cloud를 하고 싶은 글을 저장하고 keyword_count를 이용해서 Word Cloud에 필요한 준비를 합니다.  
 ``` python
@@ -88,9 +92,6 @@ make_cloud(data,back_image_n="skeleton_king.jpg" ,state="grey", background_color
 ![](output/ex6.png)  
 ![](https://raw.githubusercontent.com/newhiwoong/newhiwoong.github.io/master/images/main_logo.png)
 ![](https://newhiwoong.github.io/images/KakaoTalk_WC1.png)  
-
-## reference
-> https://amueller.github.io/word_cloud/auto_examples/index.html
 
 ## Next
 ![](image/next.JPG)  
