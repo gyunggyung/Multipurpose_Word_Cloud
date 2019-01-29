@@ -1,4 +1,5 @@
 # Multipurpose_Word_Cloud
+
 자기소개서 등을 한 눈에 볼 수 있는 방법이 없을까? 생각했습니다. 더 나아가서 자신이 원하는 글을 원하는 방식으로 표현하면 좋겠다는 생각으로 시작했습니다.
 
 [카카오톡을 Word Cloud로 분석하기](https://newhiwoong.github.io/nlp/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%8C%80%ED%99%94-%EB%82%B4%EC%9A%A9%EC%9D%84-Word-Cloud%EB%A1%9C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0)
@@ -40,6 +41,8 @@ pip install wordcloud
 ## How to use
 위에 설치 작업을 완료했다고 가정하겠습니다.  
 
+![](image/make.JPG)  
+
 먼저 Word Cloud를 하고 싶은 글을 저장하고 keyword_count를 이용해서 Word Cloud에 필요한 준비를 합니다.  
 ``` python
 data = keyword_count("my.txt")
@@ -80,10 +83,14 @@ make_cloud(data,back_image_n="skeleton_king.jpg" ,state="grey", background_color
 <b>이 프로그램을 이용해 만든 자기소개서 Word Cloud 예시입니다.</b>
 ![](output/ex1.png)  
 ![](output/ex2.png)  
-![](output/ex3.png)  
 ![](output/ex4.png)  
 ![](output/ex5.png)  
-![](output/ex6.png)
+![](output/ex6.png)  
+![](https://raw.githubusercontent.com/newhiwoong/newhiwoong.github.io/master/images/main_logo.png)
+![](https://newhiwoong.github.io/images/KakaoTalk_WC1.png)  
 
 ## reference
 > https://amueller.github.io/word_cloud/auto_examples/index.html
+
+## Next
+![](image/next.JPG)  
