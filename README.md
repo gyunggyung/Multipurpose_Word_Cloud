@@ -2,8 +2,6 @@
 
 자기소개서 등을 한 눈에 볼 수 있는 방법이 없을까? 생각했습니다. 더 나아가서 자신이 원하는 글을 원하는 방식으로 표현하면 좋겠다는 생각으로 시작했습니다.
 
-[카카오톡을 Word Cloud로 분석하기](https://newhiwoong.github.io/nlp/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%8C%80%ED%99%94-%EB%82%B4%EC%9A%A9%EC%9D%84-Word-Cloud%EB%A1%9C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0)
-
 ### 참고한 글
 > https://amueller.github.io/word_cloud/auto_examples/index.html
 
@@ -12,7 +10,7 @@
 
 ```
 git init
-git clone https://github.com/newhiwoong/National-Petition.git
+git clone https://github.com/gyunggyung/National-Petition.git
 ```
 
 ## 👨‍💻 System requirements
