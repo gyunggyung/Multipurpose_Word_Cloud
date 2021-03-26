@@ -85,8 +85,6 @@ make_cloud(data,back_image_n="skeleton_king.jpg" ,state="grey", background_color
 <b>이 프로그램을 이용해 만든 자기소개서 Word Cloud 예시입니다.</b>
 ![](output/ex1.png)  
 ![](output/ex4.png)  
-![](https://newhiwoong.github.io/images/KakaoTalk_WC1.png)  
-![](https://raw.githubusercontent.com/newhiwoong/newhiwoong.github.io/master/images/main_logo.png)
 ![](output/ex6.png)  
 
 ## Next
